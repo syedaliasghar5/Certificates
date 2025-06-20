@@ -29,7 +29,7 @@ This repository contains certificates I’ve earned from various reputable platf
   - Natural Language Processing (NLP)  
   - Large Language Models (LLMs)
 - **Date Completed**: [18 june 2025]  
-- 📄 [View Certificate](AI_for_beginners_Certificate_hp_life.pdf)
+- 📄 [View Certificate](certificate_2.pdf)
 
 ---
 
