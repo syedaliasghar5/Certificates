@@ -29,7 +29,7 @@ This repository contains certificates I’ve earned from various reputable platf
   - Natural Language Processing (NLP)  
   - Large Language Models (LLMs)
 - **Date Completed**: [18 june 2025]  
-- 📄 [View Certificate](./cisco_intro_to_cybersecurity_certificate.pdf)
+- 📄 [View Certificate](./AI_for_beginners_certificate_hp_life.pdf)
 
 ---
 
@@ -43,7 +43,5 @@ Stay tuned as I continue to explore courses on:
 ---
 
 ## 🔗 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 📧 yourname@email.com
+- 💼 [LinkedIn](www.linkedin.com/in/syed-ali-asghar-b61012370)
 
